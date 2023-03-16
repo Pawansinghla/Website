@@ -64,7 +64,7 @@
 						</a>
 
 						<a href="#" class="flex-c-m trans-04 p-lr-25">
-							INR
+							Rupees
 						</a>
 					</div>
 				</div>
